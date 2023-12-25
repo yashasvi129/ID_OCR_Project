@@ -1,5 +1,8 @@
+
+Deployed on Render App
 Final Deployed Link - https://id-ocr-qoala.onrender.com
-**Qoala-Assignment Details **
+
+| Qoala-Assignment Details |
 
 Create an OCR (Optical Character Recognition) App that can recognize thai id cards and get the required information. Save this information for retrival later.
 
@@ -57,11 +60,13 @@ node index.js
 
 the backend will run on http://localhost:5000/
 
-**run the Frontend **
+| run the Frontend |
 
 cd Frontend
 
 npm start
 
 the backend will run on http://localhost:3000/
+
+Deployed on Render App
 Final Deployed Link - https://id-ocr-qoala.onrender.com
