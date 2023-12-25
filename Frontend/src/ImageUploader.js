@@ -23,7 +23,7 @@ const ImageUploader = () => {
  }
   return (
     <div className="image-uploader-container">
-    <form action="http://localhost:5000/api/extract/add" method="post" enctype="multipart/form-data">
+    <form action="https://ocr-project-id-pko1.onrender.com/api/extract/add" method="post" enctype="multipart/form-data">
       <label className="upload-image">
      
         <input name='uploaded_file' id='uploaded_file' type="file" onChange={handleImageChange} accept="image/*" style={{ display: 'none' }} />
